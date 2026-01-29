@@ -1,0 +1,179 @@
+﻿COICOP,Nama_Komoditas
+01111001,"Beras (lokal, medium, premium, impor) "
+01111003,Beras ketan 
+01111006,Jagung basah dengan kulit 
+01111005/2,Jagung pipilan/beras jagung/jagung titi 
+01115005,Tepung terigu 
+0111,Padi-padian lainnya 
+01178001,Ketela pohon/singkong 
+01178002,Ketela rambat/ubi jalar 
+01115007,Sagu (bukan dari ketela pohon) 
+01178004,Talas/keladi 
+01177001,Kentang 
+01178001,Gaplek 
+01178,Umbi-umbian lainnya 
+01131017,Ekor kuning 
+01131069,Tongkol 
+01131072,Tuna 
+01131013,"Cakalang, dencis "
+01131065,Tenggiri 
+01131057,Selar 
+01131028,"Kembung, lema/tatare, banyar/banyara "
+01131067,Teri basah 
+01131003,Bandeng 
+01131018,Gabus 
+01131045,Mujair 
+01131041,Mas 
+01131046,Nila 
+01131035,Lele 
+01131023/24,Kakap 
+01131004,Baronang 
+01131051,Patin 
+01131006,Bawal 
+01131020,Gurame 
+01131,Ikan segar/basah lainnya 
+01132004,"Udang, lobster "
+01132001/6,"Cumi-cumi, sotong, gurita "
+01132007/2/8,"Ketam, kepiting, rajungan "
+01132003/10/12,"Kerang, siput, bekicot, remis "
+01132,Udang/hewan air segar lainnya 
+01133021/26/37,Kembung diawetkan/peda 
+01133031,Tenggiri diawetkan 
+01133033/34/08,"Tongkol, tuna, cakalang, dencis, ikan kayu diawetkan "
+01133032,Teri diawetkan 
+01133029,Selar diawetkan 
+01133036,Sepat diawetkan 
+01133002/3/4,Bandeng diawetkan 
+01133011,Gabus diawetkan 
+01134001,"Ikan dalam kaleng (sardencis, tuna, dsb.) "
+01133,Ikan diawetkan lainnya 
+01133035,"Udang diawetkan (ebi, rebon) "
+01133009,"Cumi-cumi, sotong, gurita diawetkan "
+01133,Udang/hewan air diawetkan lainnya 
+01121001,Daging sapi 
+01123001,"Daging kambing, domba/biri-biri "
+01122001,Daging babi 
+01124003,Daging ayam ras 
+01124002,Daging ayam kampung 
+01121/22/23/24,Daging segar lainnya 
+01125,"Daging diawetkan (sosis, abon, nugget, dll) "
+01121005,"Tetelan, sandung lamur "
+01127,"Lainnya (hati, jeroan, iga, kaki, buntut, kepala, dsb.) "
+01147002,Telur ayam ras 
+01147001,Telur ayam kampung 
+01147003,Telur itik/telur itik manila 
+01147005/...,"Telur lainnya (puyuh, asin, penyu, angsa, dsb.) "
+01143003/05,Susu cair pabrik / Susu kental manis 
+01143001/2,Susu bubuk 
+01143007,Susu bubuk bayi 
+01141/45/46,Susu lainnya dan hasil lain dari susu 
+01171012,Bayam 
+01171014,Kangkung 
+01172001/2/3,Kol/kubis 
+01171016,Sawi putih (petsai) 
+01171015,Sawi hijau 
+01173003,Buncis 
+01173008,Kacang panjang 
+01173005,"Tomat sayur, tomat ceri "
+01174001,Wortel 
+01173004,Mentimun 
+01171010,Daun ketela pohon/daun singkong 
+01173023/26,Terong 
+01171017,Tauge 
+01173014/15,"Labu, labu siam, labu parang "
+01171026,Bahan sayur sop/cap cay/kimlo (paket) 
+01171024/25,Bahan sayur asam/lodeh (paket) 
+01173017,Nangka muda 
+01173020,Pepaya muda 
+01173022,Jengkol 
+01174006,Bawang merah 
+01174007,Bawang putih 
+01174005,Bawang bombay 
+01173012,Cabai merah 
+01173016,Cabai hijau 
+01173013,Cabai rawit 
+01171/72/73/74/76,Sayur-sayuran lainnya 
+01168010,Kacang tanah tanpa kulit 
+01168004,Kacang kedelai 
+01168,Kacang lainnya 
+01194011,Tahu 
+01194013,Tempe 
+01194010,Oncom 
+01194,Hasil lain dari kacang-kacangan 
+01161001-33,"Jeruk, jeruk bali "
+01167002-14,Mangga 
+01163001-9,Apel 
+01167040-49,Rambutan 
+01167050/098,"Duku, langsat "
+01167059-85,Durian 
+01165008-11,Salak 
+01162001,Pisang ambon 
+01162002-14,Pisang lainnya 
+01167022-27,Pepaya 
+01167028-32,Semangka 
+01173002,Tomat buah 
+01165004-6,Alpukat 
+01167053,Jambu biji 
+01154003,Minyak kelapa 
+01154001/4,"Minyak goreng (kelapa sawit, bunga matahari) "
+01167033,Kelapa (tidak termasuk santan instan) 
+01151/52/53/54,Minyak dan kelapa lainnya 
+01181001,Gula pasir 
+01181002,"Gula merah, gula air (aren, kelapa, lontar) "
+01167033,Teh bubuk 
+01151/52/53/54,Teh celup (sachet) 
+01211001,"Kopi (bubuk, biji) "
+01211002,Kopi instan (sachet) 
+01222/3,Bahan minuman lainnya 
+01192001,Garam 
+01192005,Kemiri 
+01192006,Ketumbar/jinten 
+01192007,Merica/lada 
+01192003,Jahe 
+01192000,Kunyit 
+01173024,Asam 
+01194003/4,Terasi/petis 
+01191003,Kecap 
+01194008,Penyedap masakan/vetsin 
+01191005,Sambal jadi 
+01191006-7,Saus tomat 
+01194007,"Bumbu masak jadi/kemasan, bumbu racikan "
+01192003/4,"Bumbu dapur lainnya (kencur, pala, kapulaga, dsb.) "
+01115012,Mie instan 
+01115018/19,Kerupuk 
+01115013,Bubur bayi kemasan 
+01112/15/76/94,Bahan makanan lainnya 
+01112005,Roti tawar 
+01112003,"Roti manis, roti lainnya "
+11111025/044,"Kue kering, biskuit, semprong "
+11111024/103/123,"Kue basah (lapis, bika ambon, lemper, dsb.) "
+11111133/83-89,"Makanan gorengan (tahu, tempe, bakwan, pisang) "
+11111011,Bubur kacang hijau 
+11111015,"Gado-gado, ketoprak, pecel "
+11113170,Nasi campur/rames 
+11113169,Nasi goreng 
+11111030,Nasi putih 
+11111023,Lontong/ketupat sayur 
+11120006/017...,"Soto, gule, sop, rawon, cincang "
+11111178-180,"Sayur matang (ditumis, disantan, dsb.) "
+11111040,"Sate, tongseng "
+11111047,"Mie bakso, mie rebus, mie goreng "
+11111029,Mie instan (porsi) 
+11111027,"Makanan ringan anak-anak, krupuk/kripik "
+11111019,Ikan matang 
+11111007/8/3034,"Ayam/bebek/daging matang (goreng, rendang, dsb.) "
+11111004/1208,"Daging olahan (sosis, nugget, daging asap) matang "
+11113008,Bubur ayam 
+11113003,"Siomay, batagor "
+11111058,Air kemasan 
+01221000,Air kemasan galon 
+11111055/059,"Air teh kemasan, minuman soda "
+01223-01225,"Sari buah kemasan, minuman kesehatan/energi "
+11111052-57,"Minuman jadi (kopi, teh, susu coklat, dsb.) "
+11111049,Es krim 
+11111051,Es lainnya 
+02110000,Minuman keras 
+02201001,Rokok kretek filter 
+02201002,Rokok kretek tanpa filter 
+02201003,Rokok putih 
+02202000,Tembakau 

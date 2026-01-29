@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+tensorflow-cpu
+scikit-learn
+openpyxl
